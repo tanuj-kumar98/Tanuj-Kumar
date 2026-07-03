@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="350" viewBox="0 0 1400 350">
+<rect width="1400" height="350" fill="#0B0F14"/>
+<line x1="60" y1="70" x2="1340" y2="70" stroke="#58A6FF" stroke-width="2"/>
+<line x1="60" y1="280" x2="1340" y2="280" stroke="#30363D" stroke-width="2"/>
+<text x="80" y="140" fill="#E6EDF3" font-family="IBM Plex Mono,monospace" font-size="54" font-weight="700">TANUJ KUMAR</text>
+<text x="82" y="180" fill="#58A6FF" font-family="IBM Plex Mono,monospace" font-size="24">Analytics Engineer • Data Analyst</text>
+<text x="82" y="220" fill="#E6EDF3" font-family="IBM Plex Mono,monospace" font-size="20">Designing analytics systems that transform business data into confident decisions.</text>
+<circle cx="1170" cy="112" r="8" fill="#3FB950"/>
+<text x="1190" y="118" fill="#3FB950" font-family="IBM Plex Mono,monospace" font-size="18">ONLINE</text>
+<rect x="82" y="245" width="120" height="6" fill="#58A6FF"/>
+<rect x="210" y="245" width="80" height="6" fill="#F5A623"/>
+<rect x="298" y="245" width="60" height="6" fill="#A371F7"/>
+</svg>
